@@ -1,0 +1,23 @@
+html {
+  font-size: 62.5%;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar{
+  width: 1rem;
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgb(130,178,228);
+  border-radius: 1rem;
+}
+::-webkit-scrollbar-track
+{
+	background-color: transparent;
+	border-radius: 10px;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
