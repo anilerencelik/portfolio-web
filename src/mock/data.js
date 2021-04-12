@@ -5,6 +5,7 @@ export const headData = {
   title: 'Anıl Eren ÇELİK | Portfolio', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
   description: 'Welcome to my website', // e.g: Welcome to my website
+  endpoint: 'https://erenportback.herokuapp.com/lgn'
 };
 
 // HERO DATA
@@ -21,7 +22,7 @@ export const aboutData = {
   paragraphOne: 'I was born on May 14, 1999 in Tokat. I went to primary school in Tokat. I went to secondary and high school in Samsun. I am currently studying at Ege University in Izmir. I am a 3rd grade student in Computer Engineering.',
   paragraphTwo: 'I am someone who likes to learn in career expreiences, likes to follow new technologies, likes to develop side projects. I try to write pure, clean and understable code.',
   paragraphThree: 'You can review my resume if you want.',
-  resume: 'https://github.com/anilerencelik/portfolio-web/blob/main/src/mock/An%C4%B1l%20Eren%20%C3%87EL%C4%B0K.pdf?raw=true',
+  resume: 'https://cutt.ly/anilerencelik',
 };  
 
 // PROJECTS DATA
